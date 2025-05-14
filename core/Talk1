@@ -1,0 +1,12 @@
+object oriented programming
+
+object knows something - props
+object does something - behaviour
+
+JVM creates a object. we have to give JVM the blueprint(props)
+
+JDK - java development kit
+JVM - java virtual machine
+JRE - java runtime environment
+
+The byte code runs on jvm. JRE contains the libraries and the JVM to help run the JVM. All of these are packed inside JDK.
