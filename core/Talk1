@@ -10,3 +10,11 @@ JVM - java virtual machine
 JRE - java runtime environment
 
 The byte code runs on jvm. JRE contains the libraries and the JVM to help run the JVM. All of these are packed inside JDK.
+
+* types of exceptions
+
+-> compile time error
+-> runtime error
+-> logical error
+
+in runtime errors the execution suddenly stops which is a problem. we need to handle the exceptions
