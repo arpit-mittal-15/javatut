@@ -9,8 +9,8 @@ class Calculator{
 class Obj{
   public static void main(String args[]){
 
-    int num1 = 4;
-    int num2 = 5;
+    // int num1 = 4;
+    // int num2 = 5;
 
     Calculator calc = new Calculator();
 

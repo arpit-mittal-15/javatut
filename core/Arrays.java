@@ -1,7 +1,7 @@
 class Arrays{
   public static void main(String args[]){
 
-    int nums[] = {3,7,2,4};
+    // int nums[] = {3,7,2,4};
     int nums1[] = new int[4];
 
     nums1[0] = 4;
@@ -14,7 +14,7 @@ class Arrays{
 
     //2d array
 
-    int nums2[][] = new int[3][4];
+    // int nums2[][] = new int[3][4];
 
     int rndm = (int)(Math.random() * 100);
 

@@ -27,6 +27,7 @@ public class Interfaces {
     Computer desk = new Desktop();
 
     lap.code();
+    desk.code();
 
   }
 }
